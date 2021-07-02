@@ -1,0 +1,11 @@
+{
+  "entity.aerwhale_king.idle": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.aerwhale_king.idle",
+    "sounds": [
+        "lost_aether:entity/aerwhale_king/idle1",
+        "lost_aether:entity/aerwhale_king/idle2",
+        "lost_aether:entity/aerwhale_king/idle3"
+    ]
+  }
+}
