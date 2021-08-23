@@ -1,4 +1,4 @@
-# Jappafied-Aether
+# Jappafied-Aethers
 
 Information:
 
