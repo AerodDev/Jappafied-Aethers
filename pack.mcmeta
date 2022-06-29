@@ -1,11 +1,11 @@
 {
   "pack": {
     "pack_format": 9,
-    "description": "§bJappa styled Aethers!\n§fBy Aerod, BrianIsBro. v1.0"
+    "description": "§bJappa styled Aethers!\n§fBy Aerod, BrianIsBro. v1.2"
   },
 
   "info": {
-    "version": "1.0, Authors: Aerod, BrianIsBro.",
+    "version": "1.2, Authors: Aerod, BrianIsBro.",
     "credits": "Our textures were based on Gilded Games textures, Quicksoil was based on a Jappa dirt texture that was made by Evorp."
   }
 }
